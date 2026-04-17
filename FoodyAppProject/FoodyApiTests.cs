@@ -15,7 +15,11 @@ namespace FoodyAppProject
         private static string lastCreatedFoodId;
 
         private const string BaseUrl = "http://144.91.123.158:81";
+
+
         private const string LoginUsername = "VessNikolova";
+
+
         private const string LoginPassword = "123456";
 
         [OneTimeSetUp]
@@ -90,7 +94,7 @@ namespace FoodyAppProject
             Assert.That(response.Content.Contains("foodId"));
 
             lastCreatedFoodId = createResponse.FoodId;
-                
+               
         }
 
         [Order(2)]
