@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\QA-Back-End-Test-Automation\\Exam Preparation II\\FoodyAppExam\\FoodyAppProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FF63363-204A-4BD2-8314-CC7E1FC10448}|FoodyAppProject\\FoodyAppProject.csproj|h:\\qa-back-end-test-automation\\exam preparation ii\\foodyappexam\\foodyappproject\\foodyappproject\\foodyapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FF63363-204A-4BD2-8314-CC7E1FC10448}|FoodyAppProject\\FoodyAppProject.csproj|solutionrelative:foodyappproject\\foodyapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FF63363-204A-4BD2-8314-CC7E1FC10448}|FoodyAppProject\\FoodyAppProject.csproj|h:\\qa-back-end-test-automation\\exam preparation ii\\foodyappexam\\foodyappproject\\foodyappproject\\models\\apiresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FF63363-204A-4BD2-8314-CC7E1FC10448}|FoodyAppProject\\FoodyAppProject.csproj|solutionrelative:foodyappproject\\models\\apiresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FF63363-204A-4BD2-8314-CC7E1FC10448}|FoodyAppProject\\FoodyAppProject.csproj|h:\\qa-back-end-test-automation\\exam preparation ii\\foodyappexam\\foodyappproject\\foodyappproject\\models\\fooddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FF63363-204A-4BD2-8314-CC7E1FC10448}|FoodyAppProject\\FoodyAppProject.csproj|solutionrelative:foodyappproject\\models\\fooddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FF63363-204A-4BD2-8314-CC7E1FC10448}|FoodyAppProject\\FoodyAppProject.csproj|h:\\qa-back-end-test-automation\\exam preparation ii\\foodyappexam\\foodyappproject\\foodyappproject\\foodyappproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6FF63363-204A-4BD2-8314-CC7E1FC10448}|FoodyAppProject\\FoodyAppProject.csproj|solutionrelative:foodyappproject\\foodyappproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FoodDTO.cs",
+              "DocumentMoniker": "H:\\QA-Back-End-Test-Automation\\Exam Preparation II\\FoodyAppExam\\FoodyAppProject\\FoodyAppProject\\Models\\FoodDTO.cs",
+              "RelativeDocumentMoniker": "FoodyAppProject\\Models\\FoodDTO.cs",
+              "ToolTip": "H:\\QA-Back-End-Test-Automation\\Exam Preparation II\\FoodyAppExam\\FoodyAppProject\\FoodyAppProject\\Models\\FoodDTO.cs",
+              "RelativeToolTip": "FoodyAppProject\\Models\\FoodDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T14:48:47.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApiResponseDTO.cs",
+              "DocumentMoniker": "H:\\QA-Back-End-Test-Automation\\Exam Preparation II\\FoodyAppExam\\FoodyAppProject\\FoodyAppProject\\Models\\ApiResponseDTO.cs",
+              "RelativeDocumentMoniker": "FoodyAppProject\\Models\\ApiResponseDTO.cs",
+              "ToolTip": "H:\\QA-Back-End-Test-Automation\\Exam Preparation II\\FoodyAppExam\\FoodyAppProject\\FoodyAppProject\\Models\\ApiResponseDTO.cs",
+              "RelativeToolTip": "FoodyAppProject\\Models\\ApiResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T14:47:30.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FoodyAppProject.csproj",
+              "DocumentMoniker": "H:\\QA-Back-End-Test-Automation\\Exam Preparation II\\FoodyAppExam\\FoodyAppProject\\FoodyAppProject\\FoodyAppProject.csproj",
+              "RelativeDocumentMoniker": "FoodyAppProject\\FoodyAppProject.csproj",
+              "ToolTip": "H:\\QA-Back-End-Test-Automation\\Exam Preparation II\\FoodyAppExam\\FoodyAppProject\\FoodyAppProject\\FoodyAppProject.csproj",
+              "RelativeToolTip": "FoodyAppProject\\FoodyAppProject.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-14T14:46:37.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FoodyApiTests.cs",
+              "DocumentMoniker": "H:\\QA-Back-End-Test-Automation\\Exam Preparation II\\FoodyAppExam\\FoodyAppProject\\FoodyAppProject\\FoodyApiTests.cs",
+              "RelativeDocumentMoniker": "FoodyAppProject\\FoodyApiTests.cs",
+              "ToolTip": "H:\\QA-Back-End-Test-Automation\\Exam Preparation II\\FoodyAppExam\\FoodyAppProject\\FoodyAppProject\\FoodyApiTests.cs",
+              "RelativeToolTip": "FoodyAppProject\\FoodyApiTests.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAEYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T14:43:59.04Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
